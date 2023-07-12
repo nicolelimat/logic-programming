@@ -28,7 +28,7 @@ a(X):- X>10,!.
 a(X):- write(X),write(' '), X1 is X+1,a(X1).
 
 Qual será o resultado da seguinte consulta Prolog:
-?- a. 8/
+?- a. */
 %   R: 0 1 2 3 4 5 6 7 8 9 10
 
 /**
@@ -75,7 +75,7 @@ d(1).*/
 % Encontre todas as formas possíveis de se escrever uma lista [A,B] com A e B variando entre 0 e 1.
 %    R: L = [[0, 0], [0, 1], [1, 0], [1, 1]].
 %
-% OBS: O predicado "findall/2" gera uma lista com todas as alternativas possíveis que satisfaça uma consulta. */
+% OBS: O predicado "findall/2" gera uma lista com todas as alternativas possíveis que satisfaça uma consulta.
 
 /**
 Exercício 6:
