@@ -1,5 +1,5 @@
 # logic-programming
-This repository contains the programs developed in prolog language during the Logic Programming course, taught by Professor Luis Eduardo da Silva, in the Computer Science course at UNIFAL-MG. 
+This repository contains the programs developed in Prolog language during the Logic Programming course, taught by Professor Luis Eduardo da Silva, in the Computer Science course at UNIFAL-MG. 
 
 ## 
 ### List Exercises:
